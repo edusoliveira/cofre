@@ -1,0 +1,21 @@
+# Gradle / build
+.gradle/
+build/
+app/build/
+captures/
+
+# Configuração local da máquina (caminho do Android SDK)
+local.properties
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+.cxx/
+
+# APK gerado — distribuído pela aba Releases, não versionado
+*.apk
+*.aab
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
